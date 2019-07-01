@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_366699_snow.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 06:59:23</sys_created_on>
+        <sys_id>994d9db6db12330004a6da75ca961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366699_snow.user</sys_name>
+        <sys_package display_value="SNOW" source="x_366699_snow">554d95b2db12330004a6da75ca961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW">554d95b2db12330004a6da75ca961980</sys_scope>
+        <sys_update_name>sys_user_role_994d9db6db12330004a6da75ca961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-01 06:59:23</sys_updated_on>
+    </sys_user_role>
+</record_update>
