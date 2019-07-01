@@ -2,8 +2,8 @@
 <record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category/>
-        <description/>
+        <category display_value="Administration">647e6524c0a80a080010856a87e15ce2</category>
+        <description>test environment</description>
         <device_type>browser</device_type>
         <hint/>
         <name>SNOW</name>
@@ -15,7 +15,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>154d9db6db12330004a6da75ca96190f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>SNOW</sys_name>
         <sys_overrides/>
         <sys_package display_value="SNOW" source="x_366699_snow">554d95b2db12330004a6da75ca961980</sys_package>
@@ -23,7 +23,7 @@
         <sys_scope display_value="SNOW">554d95b2db12330004a6da75ca961980</sys_scope>
         <sys_update_name>sys_app_application_154d9db6db12330004a6da75ca96190f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-01 06:59:23</sys_updated_on>
+        <sys_updated_on>2019-07-01 07:03:48</sys_updated_on>
         <title>SNOW</title>
         <view_name/>
     </sys_app_application>
